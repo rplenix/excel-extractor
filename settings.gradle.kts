@@ -1,3 +1,3 @@
 
-rootProject.name = "sap-orders"
+rootProject.name = "excel-extractor"
 
